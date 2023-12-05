@@ -1,4 +1,4 @@
-# CDC LSMC
+# CDC LCMS
 
 1. **Introduction**
 
